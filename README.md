@@ -16,5 +16,5 @@ I built a simple CRUD API! My database contains just one table which has a list 
 
 ## Deployed Link
 
+https://virus-families-crud-api.herokuapp.com/virusfamilies
 
-# Virus-Families-CRUD-API
